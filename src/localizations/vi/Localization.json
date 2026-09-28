@@ -4332,19 +4332,19 @@
         },
         "AllPerfectComboColors": {
           "Title": "Màu sắc Combo hạng All Perfect",
-          "Description": "Màu sắc Combo khi đang đạt All Perfect"
+          "Description": "Màu sắc Combo khi đang đạt All Perfect."
         },
         "FullComboComboColors": {
           "Title": "Màu sắc Combo hạng Full Combo",
-          "Description": "Màu sắc Combo khi đang đạt Full Combo"
+          "Description": "Màu sắc Combo khi đang đạt Full Combo."
         },
         "PassComboColors": {
           "Title": "Màu sắc Combo hạng Pass",
-          "Description": "Màu sắc Combo khi đang đạt Pass"
+          "Description": "Màu sắc Combo khi đang đạt Pass."
         },
         "FailComboColors": {
           "Title": "Màu sắc Combo hạng Fail",
-          "Description": "Màu sắc Combo khi chỉ còn đạt được Fail"
+          "Description": "Màu sắc Combo khi chỉ còn đạt được Fail."
         },
 		"ThinJudgmentComboOutline": {
 		  "Title": "Đường viền mỏng cho chỉ báo",
