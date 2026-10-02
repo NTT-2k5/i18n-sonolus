@@ -302,7 +302,7 @@
     "#BLUE": "Xanh dương",
     "#YELLOW": "Vàng",
     "#PURPLE": "Tím",
-    "#CYAN": "Xanh lục lam",
+    "#CYAN": "Xanh lơ",
     "#SIMPLE": "Simple",
     "#EASY": "Easy",
     "#NORMAL": "Normal",
@@ -2584,7 +2584,7 @@
     },
     "SelectClient": {
       "CustomServers": {
-        "Title": "Danh sách Server trò chơi",
+        "Title": "Server của tôi",
 		"Help": {
             "Message": "Bạn có thể tìm thêm nhiều Server trò chơi khác trong Danh sách Server tại [Tin\u00A0tức\u00A0&\u00A0Cộng\u00A0đồng\u00A0Sonolus].\n\nMở Danh sách Server và khám phá ngay?"
         },
