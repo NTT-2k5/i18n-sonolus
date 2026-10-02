@@ -67,10 +67,10 @@
     "#PARTICLE_DATA": "Dữ liệu",
     "#PARTICLE_TEXTURE": "Texture",
     "#ENGINE_THUMBNAIL": "Ảnh thu nhỏ",
-    "#ENGINE_PLAYDATA": "Phát dữ liệu",
-    "#ENGINE_WATCHDATA": "Xem dữ liệu",
-    "#ENGINE_PREVIEWDATA": "Xem trước dữ liệu",
-    "#ENGINE_TUTORIALDATA": "Dữ liệu hướng dẫn",
+    "#ENGINE_PLAYDATA": "Dữ liệu Chơi",
+    "#ENGINE_WATCHDATA": "Dữ liệu Xem",
+    "#ENGINE_PREVIEWDATA": "Dữ liệu Xem trước",
+    "#ENGINE_TUTORIALDATA": "Dữ liệu Hướng dẫn",
     "#ENGINE_ROM": "ROM",
     "#ENGINE_CONFIGURATION": "Cấu hình",
     "#REPLAY_DATA": "Dữ liệu",
@@ -151,7 +151,7 @@
     "#STAGE_ALPHA": "Độ trong suốt của sàn chơi",
     "#STAGE_ANIMATION": "Hoạt ảnh sàn chơi",
     "#STAGE_TILT": "Độ nghiêng của sàn chơi",
-	"#STAGE_COVER": "Hiển thị tường chắn sàn chơi",
+	"#STAGE_COVER": "Hiển thị tường chắn",
     "#STAGE_COVER_VERTICAL": "Kích thước tường chắn dọc",
     "#STAGE_COVER_HORIZONTAL": "Kích thước tường chắn ngang",
     "#STAGE_COVER_ALPHA": "Độ trong suốt của tường chắn",
@@ -195,7 +195,7 @@
     "#SLOT_DIRECTION": "Hướng Slot",
     "#SLOT_ALPHA": "Độ trong suốt Slot",
     "#SLOT_ANIMATION": "Hoạt ảnh Slot",
-    "#SLOT_EFFECT": "Hiển thị hiệu ứng Slot",
+    "#SLOT_EFFECT": "Hiệu ứng Slot",
     "#SLOT_EFFECT_POSITION": "Vị trí hiệu ứng Slot",
     "#SLOT_EFFECT_SIZE": "Kích thước hiệu ứng Slot",
     "#SLOT_EFFECT_ROTATION": "Xoay hiệu ứng Slot",
@@ -211,7 +211,7 @@
     "#NOTE_COLOR": "Màu sắc Note",
     "#NOTE_ALPHA": "Độ trong suốt Note",
     "#NOTE_ANIMATION": "Hoạt ảnh Note",
-    "#NOTE_EFFECT": "Hiển thị hiệu ứng Note",
+    "#NOTE_EFFECT": "Hiệu ứng Note",
     "#NOTE_EFFECT_POSITION": "Vị trí hiệu ứng Note",
     "#NOTE_EFFECT_SIZE": "Kích thước hiệu ứng Note",
     "#NOTE_EFFECT_ROTATION": "Xoay hiệu ứng Note",
@@ -246,7 +246,7 @@
     "#PREVIEW_SCALE_HORIZONTAL": "Tỷ lệ giãn ngang trong chế độ Xem trước",
     "#PREVIEW_TIME": "Hiển thị mốc thời gian trong chế độ Xem trước",
     "#PREVIEW_SCORE": "Hiển thị điểm số trong chế độ Xem trước",
-    "#PREVIEW_BPM": "Hiển thị nhịp độ (BPM) trong chế độ Xem trước",
+    "#PREVIEW_BPM": "Hiển thị BPM trong chế độ Xem trước",
     "#PREVIEW_TIMESCALE": "Hiển thị Timescale trong chế độ Xem trước",
     "#PREVIEW_BEAT": "Hiển thị vạch chia phách trong chế độ Xem trước",
     "#PREVIEW_MEASURE": "Hiển thị số thứ tự ô nhịp trong chế độ Xem trước",
@@ -302,7 +302,7 @@
     "#BLUE": "Xanh dương",
     "#YELLOW": "Vàng",
     "#PURPLE": "Tím",
-    "#CYAN": "Xanh lục lam",
+    "#CYAN": "Xanh lơ",
     "#SIMPLE": "Simple",
     "#EASY": "Easy",
     "#NORMAL": "Normal",
@@ -2584,7 +2584,7 @@
     },
     "SelectClient": {
       "CustomServers": {
-        "Title": "Danh sách Server trò chơi",
+        "Title": "Server của tôi",
 		"Help": {
             "Message": "Bạn có thể tìm thêm nhiều Server trò chơi khác trong Danh sách Server tại [Tin\u00A0tức\u00A0&\u00A0Cộng\u00A0đồng\u00A0Sonolus].\n\nMở Danh sách Server và khám phá ngay?"
         },
@@ -4332,19 +4332,19 @@
         },
         "AllPerfectComboColors": {
           "Title": "Màu sắc Combo hạng All Perfect",
-          "Description": "Màu sắc Combo khi đang đạt All Perfect"
+          "Description": "Màu sắc Combo khi đang đạt All Perfect."
         },
         "FullComboComboColors": {
           "Title": "Màu sắc Combo hạng Full Combo",
-          "Description": "Màu sắc Combo khi đang đạt Full Combo"
+          "Description": "Màu sắc Combo khi đang đạt Full Combo."
         },
         "PassComboColors": {
           "Title": "Màu sắc Combo hạng Pass",
-          "Description": "Màu sắc Combo khi đang đạt Pass"
+          "Description": "Màu sắc Combo khi đang đạt Pass."
         },
         "FailComboColors": {
           "Title": "Màu sắc Combo hạng Fail",
-          "Description": "Màu sắc Combo khi chỉ còn đạt được Fail"
+          "Description": "Màu sắc Combo khi chỉ còn đạt được Fail."
         },
 		"ThinJudgmentComboOutline": {
 		  "Title": "Đường viền mỏng cho chỉ báo",
