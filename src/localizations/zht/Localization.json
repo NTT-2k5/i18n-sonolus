@@ -411,11 +411,12 @@
     "#EXTENDED_VERSION": "延長版",
     "#LIVE_VERSION": "現場版",
     "#MEDLEY": "組曲",
-    "#EXPLICIT": "明確的",
+    "#EXPLICIT": "性或暴力的",
     "#MULTI_FINGER": "多指",
     "#FULL_HAND": "滿手",
     "#CROSS_HAND": "十字手",
-    "#GIMMICK": "手法",
+    "#GIMMICK": "花招",
+    "#EPILEPSY": "可致癲癇的",
     "#COLLABORATION": "合作",
     "#REPORT": "回報",
     "#REASON": "原因",
@@ -3042,6 +3043,14 @@
         },
         "Options": {
           "Title": "選項",
+          "Localization": {
+            "Title": "語言",
+            "Description": "選擇使用的語言。如果可用，此自訂伺服器將提供此語言的內容。"
+          },
+          "FallbackLocalization": {
+              "Title": "備用語言",
+              "Description": "選擇使用的備用語言。如果可用，此自訂伺服器將提供此語言的內容。"
+          },
           "AutoLogin": {
             "Title": "自動登入",
             "Description": "造訪此伺服器時自動登入。"
@@ -4248,13 +4257,13 @@
       },
       "UI": {
         "Title": "UI",
-        "UILocalization": {
-          "Title": "UI語言",
-          "Description": "選擇使用的UI語言。"
+        "Localization": {
+            "Title": "語言",
+            "Description": "選擇使用的語言。"
         },
-        "ContentLocalization": {
-          "Title": "內容語言",
-          "Description": "內容使用的語言。如果可用，自訂伺服器可能會提供這種語言的內容。"
+        "FallbackLocalization": {
+            "Title": "備用語言",
+            "Description": "選擇使用的備用語言。"
         },
         "Theme": {
           "Title": "主題",
