@@ -414,6 +414,7 @@
     "#FULL_HAND": "全手",
     "#CROSS_HAND": "换手",
     "#GIMMICK": "特效",
+    "#EPILEPSY": "可致癫痫的",
     "#COLLABORATION": "合作",
     "#REPORT": "报告",
     "#REASON": "原因",
@@ -3037,6 +3038,14 @@
         },
         "Options": {
           "Title": "选项",
+          "Localization": {
+            "Title": "语言",
+            "Description": "选择使用的语言。如果可用，此自订伺服器将提供此语言的内容。"
+          },
+          "FallbackLocalization": {
+              "Title": "备用语言",
+              "Description": "选择使用的备用语言。如果可用，此自订伺服器将提供此语言的内容。"
+          },
           "AutoLogin": {
             "Title": "自动登录",
             "Description": "当访问该服务器时自动登录。"
@@ -4236,13 +4245,13 @@
       },
       "UI": {
         "Title": "用户界面",
-        "UILocalization": {
-          "Title": "UI 界面语言",
-          "Description": "UI 界面使用的语言。"
+        "Localization": {
+          "Title": "语言",
+          "Description": "选择使用的语言。"
         },
-        "ContentLocalization": {
-          "Title": "内容语言",
-          "Description": "内容使用的语言。如果启用此选项，自定义服务器可能会提供所选语言的内容。"
+        "FallbackLocalization": {
+            "Title": "备用语言",
+            "Description": "选择使用的备用语言。"
         },
         "Theme": {
           "Title": "主题",
